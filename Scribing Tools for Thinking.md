@@ -29,7 +29,7 @@ Where possible, we will create linkages between the different sets of notes and 
 The following folks will be scribing the Tools for Thinking series:
 
 - [[Jerry Michalski]], using TheBrain, [like this](https://bra.in/5qeDMg). His notes for these events will start [here](https://bra.in/4jrLy5), or you can see it on [[Jerry's Render Brain]]. 
-- [[Bill Seitz]], using his eponymous [SeitzWiki](http://webseitz.fluxent.com/wiki/FrontPage) and [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page). 
+- [[Bill Seitz]], using his eponymous [SeitzWiki](http://webseitz.fluxent.com/wiki/FrontPage) and [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page). See [here](http://webseitz.fluxent.com/wiki/2022-08-16-BetaWorksRenderToolsForThinking).
 - [[Jess Martin]]
 - [[Darlene Dang]], using [Edvo](https://www.edvo.com/). Her notes will start [here](https://app.edvo.com/topic/Dw11GUNDXryRqjr4DoH7). 
 - [[Flancian]] using [An Agora](https://anagora.org/), an app he developed himself. See [here](https://anagora.org/tools-for-thinking)!
